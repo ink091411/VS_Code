@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "C"
+		},
+		{
+			"path": "C++"
+		},
+		{
+			"path": "Java"
+		},
+		{
+			"path": "Others"
+		},
+		{
+			"path": "Python"
+		},
+		{
+			"path": "WebFED"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Others"
+	}
+}
